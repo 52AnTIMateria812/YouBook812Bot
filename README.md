@@ -94,6 +94,3 @@ YouBook812Bot-master/
 - numpy
 - SQLite
 
-## Лицензия
-
-MIT

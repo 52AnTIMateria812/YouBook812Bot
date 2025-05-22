@@ -1,4 +1,4 @@
-# BookRecommendBot
+# YouBook812Bot
 
 Telegram бот для рекомендации книг с использованием машинного обучения.
 
@@ -15,8 +15,8 @@ Telegram бот для рекомендации книг с использова
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/BookRecommendBot.git
-cd BookRecommendBot
+git clone [https://github.com/52AnTIMateria812/YouBook812Bot/edit/alpha.git]
+cd YouBook812Bot
 ```
 
 2. Создайте виртуальное окружение и активируйте его:
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 4. Создайте файл `.env` в корневой директории и добавьте токен бота:
 ```
-TELEGRAM_BOT_TOKEN=your_bot_token_here
+BOT_TOKEN=your_bot_token_here
 ```
 
 5. Загрузите базу данных книг:
@@ -72,7 +72,7 @@ python bot.py
 ## Структура проекта
 
 ```
-YouBook812Bot-master/
+YouBook812Bot-alpha/
 ├── bot.py              # Основной файл бота
 ├── model.py            # Модель рекомендаций
 ├── database.py         # Работа с базой данных

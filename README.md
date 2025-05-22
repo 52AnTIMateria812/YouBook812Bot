@@ -15,7 +15,7 @@ Telegram бот для рекомендации книг с использова
 
 1. Клонируйте репозиторий:
 ```bash
-git clone [https://github.com/52AnTIMateria812/YouBook812Bot/edit/alpha.git]
+git clone [https://github.com/52AnTIMateria812/YouBook812Bot/tree/beta.git]
 cd YouBook812Bot
 ```
 
